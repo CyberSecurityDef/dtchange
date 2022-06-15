@@ -10,7 +10,7 @@ Requests
 install
 =======
 
-	git clone https://github.com/ErilinAleksei/dtchange.git
+	git clone https://github.com/CyberSecurityDef/dtchange.git
 	cd /dtchange	
 	make
 	make install
@@ -30,9 +30,4 @@ Using
 		dtchange -m filename -d 03:05:2020
 		dtchange -m filename -t 13:45:50 -d 03:05:2020
 
-	
-Contacts
-========
 
-	email: makentosh1@mail.ru
-	URL: https://github.com/ErilinAleksei
